@@ -3,9 +3,6 @@ module.exports = {
         'plugin:vue/vue3-recommended', // vue template formatter
         'standard'
     ],
-    'plugins': [
-        'json-format'
-    ],
     'parserOptions': {
         'parser': 'babel-eslint'
     },
